@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 
 ### `Hosted On`
 
-open [https://kajalp-todolist.netlify.app/](https://kajalp-todolist.netlify.app/) to view it in your browser
+open [https://todolist21app.netlify.app/](https://todolist21app.netlify.app/) to view it in your browser
 
 ## Features
 
